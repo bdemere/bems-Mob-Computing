@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-a1a217e7e1d776837136ea9f8733e397bfe3535c.jar" />
+    </item>
+    <item
+        jar="/home/bubujay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-dfa54e3db2b615c5a0e3af1ca87581be280d0529.jar" />
+    </item>
+    <item
+        jar="/home/bubujay/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/pre-dexed/debug/classes-8e9951766e4074bb1144bee947d70c1b4c801db7.jar" />
+    </item>
+    <item
+        jar="/home/bubujay/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-1e53f7134acd08cb58f45f128d2dadd36387f36b.jar" />
+    </item>
+    <item
+        jar="/home/bubujay/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz2/app/build/intermediates/pre-dexed/debug/classes-107d131d5791a599850db2b3a5044e4f95c79697.jar" />
+    </item>
+    <item
+        jar="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/classes-63e7a9b5de62f429c018bbf783788c20ef4e405f.jar" />
+    </item>
+    <item
+        jar="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/bubujay/AndroidStudioProjects/GeoQuiz/app/build/intermediates/pre-dexed/debug/classes-f7786d40ca1ee391956d4a87582824e89d636973.jar" />
+    </item>
+
+</items>
